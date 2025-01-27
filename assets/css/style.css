@@ -9016,6 +9016,11 @@ ul.comment-list:has(> .th-comment-item ~ .th-comment-item):first-child > .th-pos
   position: relative;
   z-index: 6;
   padding: 358px 0 207px;
+ 
+}
+
+
+.hero-inner{
   background: linear-gradient(to bottom right, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0));
 }
 
